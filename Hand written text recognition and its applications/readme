@@ -13,3 +13,9 @@ About project:-
   The second application is that it will get the input of the video from the camera of android camera using a mobile application.
   The third application is exicuted with help of Tkinter. A Track pad window is made where the digit can be drawn using keyboard and a mouse.
   All the application can be navigated using a single Tikinter window which pops up by running "main.py"
+How to run the project:-
+    -Install the Packages Required 
+    -Clone the "Hand written text recognition and its applications" floder
+    -Run the file "model.py"
+    -Install the "IPwebcam" application in your android device.
+    -Take down the ip address and wrtie it insted of "ipaddress" in 6th line of "image_live.py" 
