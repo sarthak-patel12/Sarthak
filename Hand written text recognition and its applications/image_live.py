@@ -1,10 +1,9 @@
 import cv2
 import requests
-#from PIL import Image
 import numpy as np
 from keras.models import load_model
 
-url="http://192.168.0.101:8080//photo.jpg"
+url="http://ipaddress//photo.jpg"
 model=load_model('Neural_Net')
 def predict(image):
     input = cv2.resize(image,(28,28)).reshape((28 , 28,1)).astype('float32') / 255.0
