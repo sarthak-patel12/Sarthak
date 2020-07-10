@@ -1,0 +1,15 @@
+Packages Required :-
+    -keras
+    -numpy 
+    -opencv
+    -request
+    -os 
+    -tkinter
+    *Note :- application named "IP Webcam" required on android device to use its camera.
+About project:-
+  This is a basic project on handwritten digits recognition using MNIST dataset and Convolution model
+  The convolution model comprises of 2 convolution layer, 1 max pooling , 1 Flattern and 2 dense layer
+  The first application is that it will recognize the image in the path given in the "image.py"
+  The second application is that it will get the input of the video from the camera of android camera using a mobile application.
+  The third application is exicuted with help of Tkinter. A Track pad window is made where the digit can be drawn using keyboard and a mouse.
+  All the application can be navigated using a single Tikinter window which pops up by running "main.py"
