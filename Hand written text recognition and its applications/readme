@@ -19,3 +19,13 @@ How to run the project:-
     -Run the file "model.py"
     -Install the "IPwebcam" application in your android device.
     -Take down the ip address and wrtie it insted of "ipaddress" in 6th line of "image_live.py" 
+    -Run "main.py"
+    Note :- 
+        -to get the output for any application press "p"
+        -to quit any individual application press "q".
+        -guide to draw in trackpad
+            1) to start drawing press "s"
+            2) to predict press "p"
+            3) to clear track pad press "c"
+            4) to quit press "q"
+            
