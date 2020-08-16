@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="sarthak.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+		<meta name="discription" content="Portfoilo | Resume">
+		<meta name="keywords" content="Sarthak Govingbhai Patel, Sarthak Patel">
+		<title>
+			Sarthak Patel | welcome	
+		</title>
+	</head>
+	<body>
+		<header>
+				<div class="main">
+				<h1>Sarthak Patel</h1>
+				</div>
+				<nav class="continer">
+					<ul >
+						<li><a href="#home" > About </a></li>
+						<li><a href="#academicdetails">Academic Details</a></li>
+						<li><a href="#skills">Skills</a></li>
+						<li><a href="#internshipsandcertifications">Internships and Certifications</a></li>
+						<li><a href="#projects">Projects</a></li>
+						<li><a href="#personaldetails"> Personal Details </a></li> 
+					</ul>
+				</nav>
+		</header>
+
+		<section id="home">
+    		<div class="continer">
+        		<br>
+        		<br>	
+        		<img src="sarthak.jpg" alt="Sarthak" align="middle"><br>
+        		<br>
+        		Computer Science Engineer <br>
+        		SRM Institute of Science and Technology<br>
+        		<br>
+        		<u>Carrier Objective </u><br>
+        		Looking forward to an opportunity for learning and working in a dynamic, challenging environment, where I can utilize my skills for the development of my carrier<br>
+    		</div>
+		</section>
+    
+		<section id="academicdetails">
+    		<br>
+    		<br>
+    		<div class="continer">
+    			<h1>Academic Details</h1><br>
+           		<div class="grid-container">
+				    <div class="grid-item">SRM Institute of Science and Technology<br>B. Tech<br>82.9%</div>
+					<div class="grid-item">2017-2021</div>
+					<div class="grid-item">Divine Buds English School<br>HSC<br>67.5%</div>
+					<div class="grid-item">2015-2017</div>
+					<div class="grid-item">Divine Buds English School<br>SSC<br>79.5%</div>
+					<div class="grid-item">2014-2015</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="skills">
+    		<br>
+    		<br>
+			<div class="continer">
+    			<h1>Skills</h1>
+    		
+        		<u>Technical Skills</u><br>
+        		C, C++, Java, Python, HTML, Intermediate Graphic Designing (Photoshop, After Effects), Basic Computer Skills (MS Office)<br><br>
+        		<u>Other Skills</u><br>
+        		Communication, Active listening, Leadership, Management skills, Problem solving, Time management
+    		</div>
+    		<br>
+    		<br>
+		</section>
+
+		<section id="internshipsandcertifications">
+    		<br>
+    		<div class="continer">
+    		<h1>Internships and Certificates</h1>
+			<div>
+				<u>Experts  Hub</u><br>
+				<p class="date"></p>
+				<p>Internship</p>
+				<p>Learnt basics concepts of Machine Learning, Natural Language Processing and Deep Learning Tools along with the hands on project</p>
+			</div><br>
+			<div>
+				<u>Zenerva Software</u><br>
+				<p class="date"></p>
+				<p>Internship</p>
+				<p>Learned about the Java programming from the basics along with the application.</p>
+			</div><br>
+			<div>
+				<u>Experts Hub</u><br>
+				<p class="date"></p>
+				<p>Best Project Runner Up</p>
+				<p>Successfully develpoed hand written digit recognition using CNN model and executed using Tikinter</p>
+			</div><br>
+			<div>
+				<u>Web Application using Php</u><br>
+				<p class="date"></p>
+				<p>Certifications</p>
+				<p>Learned about developing basic web application using Php</p>
+			</div><br>
+			<div>
+				<u>Python Data Structures</u><br>
+				<p class="date"></p>
+				<p>Certifications</p>
+				<p>Learned and practiced basic python data structured</p>
+			</div><br>
+			</div>
+		</section>
+
+		<section id="projects">
+			<div class="continer">
+				<br>
+				<br>
+				<h1>Projects</h1>
+				<br>
+				<br><u>Hand Written Text Recognition</u><br>
+				Build a CNN model using MNIST dataset and applied it in various ways using python Tkinter 
+				<br><u>Automatic Hand Senitizer</u>
+				Build a small model using Raspberry Pi and peripheral that automatically spray senitizer when your hand goes near to sensor.
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+			</div>
+		</section>
+
+		<section id="personaldetails" >
+			<div class="continer">
+				<br>
+				<br>
+				<h1>Personal Details</h1>
+				<br>
+				<br>Date of Birth :- 12th April, 1999
+				<br>Address :- A/65 Hariom Nager;
+				<br>		   Ghodasar;
+				<br>		   Ahmedabad-380050;
+				<br>		   Gujarat.
+				<br>Nationality :- Indian
+				<br>Mobile :- 7874406723
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+			</div>	
+		</section>
+		<footer>
+			<div class="box">
+			</div>
+			<div class="box">
+			</div>
+			<div class="box">
+			</div>
+		</footer>
+	</body>
+</html>
